@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368714078296",
+    "project_id": "taskies25",
+    "storage_bucket": "taskies25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368714078296:android:611fa3555c6cef04d4122d",
+        "android_client_info": {
+          "package_name": "com.example.taskies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeSvvSILcgnW5fp8085-bWCOR7Bfk7CRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
