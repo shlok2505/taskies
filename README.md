@@ -16,8 +16,11 @@ Create, track and prioritise your work in a clean dark UI.
 - Works on Android and iOS (tested on Android)
 
 ## Screenshots
-[add screenshots here: login, home, create task]
-
+<p>
+    <img src="ss\login_page.jpg"> width="200" />
+    <img src="ss\home_page.jpg"> width="200" />
+    <img src="ss\create_task.jpg"> width="200" />
+    <img src="ss\sort_task.jpg"> width="200" />
 ## Tech stack
 - Flutter (Material 3), Dart
 - Firebase Authentication, Cloud Firestore
@@ -66,4 +69,4 @@ match /users/{userId}/tasks/{taskId} {
 - Pagination for very large task lists
 
 ## Author
-Shlok - [GitHub link] - [LinkedIn link]
+Shlok - [https://github.com/shlok2505] - [LinkedIn link:https://www.linkedin.com/in/shloksing-h2505/]
